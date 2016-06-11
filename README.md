@@ -12,3 +12,5 @@ $ [sudo] npm install -g salyangoz
 ```bash
 $ salyangoz
 ```
+
+<img src="https://raw.githubusercontent.com/smtaydemir/salyangoz-cli/master/screenshot.png">

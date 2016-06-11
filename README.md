@@ -1,2 +1,14 @@
 # salyangoz-cli
-salyangoz cli tool
+salyangoz.me cli tool
+
+
+## install
+```bash
+$ [sudo] npm install -g salyangoz
+```
+
+
+## use
+```bash
+$ salyangoz
+```

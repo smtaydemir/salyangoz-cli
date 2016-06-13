@@ -4,7 +4,7 @@ const emoji   = require('node-emoji');
 
 
 
-request('http://salyangoz.me/recent.json', (error, response, body) => {
+request('https://salyangoz.me/recent.json', (error, response, body) => {
 
     let parse = JSON.parse(body)
 
